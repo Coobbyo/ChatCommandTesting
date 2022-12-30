@@ -2,6 +2,8 @@ using System;
 using TMPro;
 using UnityEngine;
 
+//From https://www.youtube.com/watch?v=p-2QFmCMBt8
+//I eventually want to implement this into the Developer console...maybe rename somethings?
 public class ChatWindow : MonoBehaviour
 {
 	[SerializeField] private TMP_Text chatOutput = null;
